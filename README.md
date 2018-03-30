@@ -1,8 +1,7 @@
 # CoD2 ZombotsHack
 ZombotsHack for Call of Duty 2 (1.3)
 ### YouTube
-| [![ZBH CoD2](https://img.youtube.com/vi/GVxnzmOZX60/0.jpg)](https://www.youtube.com/watch?v=GVxnzmOZX60) |
-| :--- |
+<h1 align="center"><sub><a href="https://www.youtube.com/watch?v=GVxnzmOZX60"><img src="https://img.youtube.com/vi/GVxnzmOZX60/0.jpg"></a></sub></h1>
 
 Features
 ---
